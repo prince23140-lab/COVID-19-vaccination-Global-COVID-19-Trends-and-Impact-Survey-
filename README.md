@@ -1,4 +1,4 @@
-🦠 COVID-19 Vaccination & Mortality Analysis using Python & Power BI
+# 🦠 COVID-19 Vaccination & Mortality Analysis using Python & Power BI
 👥 Student Information  
 
 | 👤 Name        | 🆔 Student ID | 🧑‍💻 Role        |

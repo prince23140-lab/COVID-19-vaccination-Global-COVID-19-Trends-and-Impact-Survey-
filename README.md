@@ -60,6 +60,14 @@ To analyze the COVID-19 surveillance dataset and derive insights related to:
 
 ---
 
+## OutLier Handling
+
+**Outliers**
+
+<img width="644" height="393" alt="before" src="https://github.com/user-attachments/assets/8f630a97-a504-41f2-a516-2b2e475cb992" />
+
+---
+
 ## 📊 2. Exploratory Data Analysis (EDA)
 
 📌 Summary Statistics:
